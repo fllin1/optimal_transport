@@ -1,5 +1,5 @@
 # optimal_transport
-School Project under the supervision of Sir Marco Cuturi - Baptiste FERRERE &amp; Florent LIN - ENSAE Paris
+School Project under the supervision of Sir Marco Cuturi - by the students Baptiste FERRERE &amp; Florent LIN - at ENSAE Paris
 
 This is a tutorial for the `ott-jax` library (https://github.com/ott-jax/ott). 
 
